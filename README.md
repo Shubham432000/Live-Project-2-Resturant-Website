@@ -4,7 +4,8 @@
 
 #### I have build a template of HTML and CSS Project using my core CSS skill
 
-> My Live Deployed Website Link [Website](https://zippy-donut-41b97b.netlify.app)  
+#### It took me 2 hours to do the project
+> My Live Deployed Website Link [Website](https://preeminent-bubblegum-f0247c.netlify.app)  
 
 ![download (6)](https://user-images.githubusercontent.com/101961231/181929243-42c28318-f21b-475a-a3fa-cadd4a13d37d.png)
 
